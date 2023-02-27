@@ -1,0 +1,15 @@
+.place{
+    width: 100%;
+    align-items: center;
+}
+.Placeicon {
+    display: inline-block;
+    width: 7%;
+    padding:20px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.icon {
+    width: 70px;
+    height: 85px;
+}

@@ -1,0 +1,17 @@
+.titleAbout {
+    text-align: center;
+}
+.place {
+    width: 100%;
+}
+.imgAbout {
+    display: inline-block;
+    width: 30%;
+    margin-left: 250px;
+}
+.textAbout {
+    display: inline-block;
+    width: 35%;
+    margin-left: 40px;
+    font-size: 17px;
+}

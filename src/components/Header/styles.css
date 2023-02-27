@@ -1,0 +1,38 @@
+.header {
+    width: 100%;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.217);
+    display: flex;
+    align-items: center;
+    background-color: #18181fbf;
+}
+.titleHome {
+    margin-right: 800px;
+    margin-left: 145px;
+    padding: 15px;
+    color: #0259bd;
+    font-family: 'Share Tech Mono', monospace;
+  
+}
+.btnSkills {
+    background-color: #18181fbf;
+    color: rgb(2, 89, 189);
+    border: none;
+    font-family: 'Oswald', sans-serif;
+    margin-right: 20px;
+    font-size:18px;
+}
+.btnProject {
+    background-color: #18181fbf;
+    color: rgb(2, 89, 189);
+    border: none;
+    font-family: 'Oswald', sans-serif;
+    margin-right: 20px;
+    font-size:18px;
+}
+.btnContact {
+    background-color: #18181fbf;
+    color: rgb(2, 89, 189);
+    border: none;
+    font-family: 'Oswald', sans-serif;
+    font-size:18px;
+}

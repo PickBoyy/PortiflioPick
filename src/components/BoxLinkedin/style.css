@@ -1,0 +1,26 @@
+.boxL {
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    box-sizing:border-box;
+    margin-left: 145px;
+    background-color: #111115;
+    padding: 25px;
+}
+.nameBox {
+    color: whitesmoke;
+    font-family: 'Oswald', sans-serif;
+}
+.titleBox {
+    color:gray;
+    font-family: 'Raleway', sans-serif;
+}
+
+.btnBox {
+    background-color: #0259bd;
+    width: 100px;
+    height: 40px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+}

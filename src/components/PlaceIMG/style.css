@@ -1,0 +1,7 @@
+.placeIMG {
+    display: inline-block;
+    width: 35%;
+    height: auto;
+    box-sizing:border-box;
+    margin-left: 250px;
+}
