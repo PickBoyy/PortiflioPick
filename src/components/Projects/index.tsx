@@ -9,7 +9,7 @@ interface IProject {
     linkImg:string,
 }
 
-const Project:Array<IProject> = [
+const Projects:Array<IProject> = [
     {
     nome:'D&D',
     tecnologias:'React',
@@ -27,11 +27,13 @@ const Project:Array<IProject> = [
     },
 ]
 
-export const Projects = () => {
+export const MyProjects = () => {
   return (
     <div>
-        {Project.map(() => (
-
+        {Projects.map((project) => (
+            <div>
+                {project.nome}
+            </div>
         ))}
     </div>
   )
