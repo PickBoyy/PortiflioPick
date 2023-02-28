@@ -1,3 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,300;1,100;1,200;1,300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+::-webkit-scrollbar {
+  width: 10px; /* Largura do scroll */
+  background-color: #111115; /* Cor de fundo do scroll */
+}
+
+/* Define as características do botão de rolagem */
+::-webkit-scrollbar-thumb {
+  background-color: #0259bd; /* Cor do botão de rolagem */
+  border-radius: 10px;
+}
+
+/* Define a cor do botão de rolagem quando o scroll do mouse é acionado */
+::-webkit-scrollbar-thumb:active {
+  background-color: #003d83; /* Nova cor do botão de rolagem */
+}

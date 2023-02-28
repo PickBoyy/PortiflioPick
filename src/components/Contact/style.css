@@ -1,0 +1,22 @@
+.allContacts {
+    margin-top: 150px;
+}
+.titleContacts {
+    text-align: center;
+}
+.placeContacts {
+    width: 40%;
+    margin: 0px 20px 0px 20px;
+}
+
+.textContact {
+    display: inline-block;
+    width: 20%;
+}
+.circleIcon {
+    background-color: #2e2e39aa;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 0px 60px 0px 60px;
+    
+}

@@ -1,7 +1,10 @@
+.allAbout {
+    margin-top: 200px;
+}
 .titleAbout {
     text-align: center;
 }
-.place {
+.placeAbout {
     width: 100%;
 }
 .imgAbout {
