@@ -14,15 +14,15 @@ const Projects:Array<IProject> = [
     nome:'D&D',
     tecnologias:'React',
     link:'https://dnd-5e-battle-frontend.vercel.app/',
-    linkGit:'',
+    linkGit:'https://github.com/PickBoyy/dnd-5e-battle-frontend',
     linkImg:'',
 
     },
     {
-    nome:'',
-    tecnologias:'',
-    link:'',
-    linkGit:'',
+    nome:'Portifólio',
+    tecnologias:'React',
+    link:'https://portifolio-pickdev.vercel.app/',
+    linkGit:'https://github.com/PickBoyy/PortiflioPick',
     linkImg:'',
     },
 ]
