@@ -1,22 +1,35 @@
-.allContacts {
+.allContato {
     margin-top: 150px;
 }
-.titleContacts {
+.titleContact {
     text-align: center;
+    margin-bottom: 50px;
 }
-.placeContacts {
-    width: 40%;
-    margin: 0px 20px 0px 20px;
+.placeContact {
+    width: 100%;
 }
-
-.textContact {
+.contacts {
+    text-align: center;
     display: inline-block;
-    width: 20%;
+    margin-left: 10%;
 }
-.circleIcon {
+.iconContato {
+    padding: 10px;
+    border-radius: 100px;
     background-color: #2e2e39aa;
-    padding: 15px;
-    border-radius: 5px;
-    margin: 0px 60px 0px 60px;
-    
+    margin-bottom: 10px;
+    border: 1px solid #0259bd;
+}
+.iconContato:hover {
+    background-color: #464654aa;
+}
+.nameContacts {
+    font-size: 25px;
+    font-weight:600;
+}   
+.linkContacts {
+    margin-top: -15px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
 }

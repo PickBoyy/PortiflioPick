@@ -1,5 +1,5 @@
 import React from 'react'
-import { BoxLinkedin } from '../BoxLinkedin'
+import { BoxCV } from '../BoxCV'
 import { PlaceIMG } from '../PlaceIMG'
 import './style.css'
 
@@ -7,7 +7,7 @@ export const Content = () => {
   return (
     <div className='content'>
       <div className='wrapper'>
-        <BoxLinkedin/>
+        <BoxCV/>
         <PlaceIMG/>
       </div>
     </div>

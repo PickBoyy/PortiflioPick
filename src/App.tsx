@@ -2,10 +2,11 @@ import './App.css'
 import { AboutMe } from './components/AboutMe'
 import { Contact } from './components/Contact'
 import { Content } from './components/Content'
-import { Footer } from './components/Footer'
+import { Baseboard } from './components/Baseboard'
 import { Header } from './components/Header'
 import { MySkills } from './components/MySkills'
 import { MyProjects } from './components/Projects'
+import { Certificates } from './components/Certificados'
 
 function App() {
 
@@ -14,10 +15,12 @@ function App() {
       <Header/>
       <Content/>
       <AboutMe/>
+      <Certificates/>
       <MySkills/>
       <MyProjects/>
       <Contact/>
-      <Footer/>
+      <Baseboard/>
+
     </div>
   )
 }

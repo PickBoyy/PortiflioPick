@@ -1,28 +1,31 @@
 .allSkills {
-    margin-top: 150px;
+    margin-top: 100px;
 }
-.place{
+.titleSkill {
+    text-align: center;
+}
+.placeSkill {
+    margin-top: 100px;
     width: 100%;
-    align-items: center;
-    margin-top: 90px;
+    text-align: center;
+    
 }
-.Placeicon {
+.nameSkill {
+    font-size:17px;
+  margin-bottom: -1px;
+}
+.skill {
     display: inline-block;
-    width: 7%;
-    padding:20px 20px 20px 20px;
-    margin-right: 30px;
-    margin-left: 30px;
+    width: 10%;
+}
+.divSkill {
     background-color: #2e2e39aa;
-    border-radius: 5px;
-    border: 1px solid #040404b2;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid #464654aa;
+    margin: 0px 10px;
 }
-.icon {
-    width: 70px;
-    height: 85px;
-}
-.TitleSkills {
-    display: inline-block;
-}
-.pSkills {
-
+.divSkill:hover {
+    background-color:#464654aa ;
+    border:2px solid #2e2e39aa;
 }

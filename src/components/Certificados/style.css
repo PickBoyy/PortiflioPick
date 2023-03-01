@@ -1,0 +1,29 @@
+.allCert {
+    margin-top: 100px;
+}
+.titleCert {
+    text-align: center;
+}
+.placeCert {
+    width: 100%;
+    margin-top: 100px;
+    text-align: center;
+}
+.divCert {
+    display: inline-block;
+    width: 9%;
+    margin: 0px -0.5% 0px -0.5%;
+
+}
+.btnCert {
+    padding: 10px 30px;
+    background-color: #0259bd9c;
+    border: 1px solid #040b12;
+    border-radius: 10px;
+    color: rgb(22, 17, 17);
+}
+.btnCert:hover {
+    background-color: #0259bd;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.406);
+    
+}

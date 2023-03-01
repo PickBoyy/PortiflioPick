@@ -18,9 +18,12 @@
 
 .btnBox {
     background-color: #0259bd;
-    width: 100px;
+    width: 150px;
+    border-radius: 5px;
     height: 40px;
     font-family: 'Raleway', sans-serif;
     font-size: 17px;
     font-weight: bold;
+    color: rgb(19, 16, 16);
+    border: 1px solid black;
 }

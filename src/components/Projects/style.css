@@ -12,6 +12,7 @@
 .boxProject {
     display: inline-block;
     background-color: #2e2e39aa;
+    border-radius: 5px;
     padding: 15px;
     width: 35%;
     margin: 0px 20px 0px 9.5%;
@@ -19,11 +20,11 @@
 }
 .boxProject:hover {
     background-color: #464654aa;
-    box-shadow: 5px 5px 5px #0259bd50;;
+    box-shadow: 5px 5px 5px #04204050;;
 }
 .placeBox {
    width: 100%;
-   margin-top: 150px;
+   margin-top: 100px;
 }
 .placeInfoProject {
     margin-left: 10px;
