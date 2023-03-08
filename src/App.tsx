@@ -16,7 +16,7 @@ function App() {
       <Content/>
       <AboutMe/>
       <Certificates/>
-      <MySkills/>
+      
       <MyProjects/>
       <Contact/>
       <Baseboard/>
