@@ -16,8 +16,10 @@
   .imgAbout {
     display: inline-block;
     max-width: 100%;
-    margin-left: 250px;
+    height: auto;
+    margin-left: 50px;
   }
+  
   
   
   .textAbout {
@@ -27,13 +29,31 @@
   }
   
   @media screen and (max-width: 768px) {
+  
+    .textAbout {
+      width: 50%;
+      margin: 10px 0;
+    }
+  }
+  @media screen and (max-width: 545px) {
     .imgAbout {
-      width: 100%;
+      width:80%;
       margin: 10px 0;
     }
   
     .textAbout {
-      width: 100%;
+      width: 50%;
+      margin: 10px 0;
+    }
+  }
+  @media screen and (max-width: 441px) {
+    .imgAbout {
+      width:100%;
+      margin: 10px 0px 0px 30px;
+    }
+  
+    .textAbout {
+      width: 50%;
       margin: 10px 0;
     }
   }

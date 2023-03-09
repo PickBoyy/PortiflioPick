@@ -28,7 +28,7 @@ const Certificados: Array<ICertificados> = [
     link: 'JS_I.pdf',
   },
   {
-    nome: 'JS II',
+    nome: 'JSII',
     link: 'JS_II.pdf',
   },
   {
