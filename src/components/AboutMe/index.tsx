@@ -7,7 +7,7 @@ export const AboutMe = () => {
         <h1 className='titleAbout'>Sobre min</h1>
         <div className='placeAbout'>
             <div className='imgAbout'>
-                <img src="https://cdn.discordapp.com/attachments/682388777070886935/1079991456342757447/pick.png" alt="pickCartoon"/>
+                <img width={450} src="https://cdn.discordapp.com/attachments/682388777070886935/1079991456342757447/pick.png" alt="pickCartoon"/>
             </div>
             <div className='textAbout'>
                 <p>Olá, me chamo Breno tenho 19 anos, adoro deixar as coisas mais bonitas, sou um intusiasta pela área de desenvolvimento front-end,

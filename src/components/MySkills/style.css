@@ -1,31 +1,41 @@
 .allSkills {
     margin-top: 100px;
-}
-.titleSkill {
+  }
+  
+  .titleSkill {
     text-align: center;
-}
-.placeSkill {
+  }
+  
+  .placeSkill {
     margin-top: 100px;
-    width: 100%;
-    text-align: center;
-    
-}
-.nameSkill {
-    font-size:17px;
-  margin-bottom: -1px;
-}
-.skill {
-    display: inline-block;
-    width: 10%;
-}
-.divSkill {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .nameSkill {
+    font-size: 17px;
+    margin-bottom: -1px;
+  }
+  
+  .skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    flex-basis: calc(100% / 5 - 20px);
+    max-width: 120px;
+  }
+  
+  .divSkill {
     background-color: #2e2e39aa;
     padding: 15px;
     border-radius: 10px;
     border: 2px solid #464654aa;
     margin: 0px 10px;
-}
-.divSkill:hover {
-    background-color:#464654aa ;
-    border:2px solid #2e2e39aa;
-}
+  }
+  
+  .divSkill:hover {
+    background-color: #464654aa;
+    border: 2px solid #2e2e39aa;
+  }

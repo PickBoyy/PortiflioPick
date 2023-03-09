@@ -45,7 +45,7 @@ const Skills:Array<ISkill> = [
     linkImg:'https://cdn.discordapp.com/attachments/682388777070886935/1079998263018672198/typescript.png'
   },
   {
-    nome:'React&React-Native',
+    nome:'React & Native',
     linkImg:'https://cdn.discordapp.com/attachments/682388777070886935/1079998293842599936/react.png'
   },
 ]
@@ -59,7 +59,7 @@ export const MySkills = () => {
           <div className="skill">
             <p className="nameSkill">{skill.nome}</p>
             <div className="divSkill">
-              <img width={100} src={skill.linkImg} alt={skill.nome} />
+              <img width={70} src={skill.linkImg} alt={skill.nome} />
             </div>
           </div>
         ))}

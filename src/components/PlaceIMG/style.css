@@ -1,7 +1,15 @@
 .placeIMG {
-    display: inline-block;
-    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
     height: auto;
-    box-sizing:border-box;
-    margin-left: 250px;
-}
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }
+  
+  .placeIMG img {
+    max-width: 100%;
+    height: auto;
+  }
+  
