@@ -48,8 +48,25 @@
   }
   @media screen and (max-width: 441px) {
     .imgAbout {
-      width:100%;
+      width:90%;
       margin: 10px 0px 0px 30px;
+    }
+    .imgFace {
+        width: 300px;
+    }
+  
+    .textAbout {
+      width: 50%;
+      margin: 10px 0;
+    }
+  }
+  @media screen and (max-width: 330px) {
+    .imgAbout {
+      width:70%;
+      margin: 10px 0px 0px 30px;
+    }
+    .imgFace {
+        width: 200px;
     }
   
     .textAbout {
