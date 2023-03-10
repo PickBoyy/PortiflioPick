@@ -14,10 +14,15 @@ function App() {
     <div className="App">
       <Header/>
       <Content/>
+      <hr className='myHr' />
       <AboutMe/>
+      <hr className='myHr' />
       <Certificates/>
+      <hr className='myHr' />
       <MySkills/>
+      <hr className='myHr' />
       <MyProjects/>
+      <hr className='myHr' />
       <Contact/>
       <Baseboard/>
 
