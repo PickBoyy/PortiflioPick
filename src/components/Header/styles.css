@@ -12,6 +12,13 @@
     font-family: 'Share Tech Mono', monospace;
   
 }
+@media screen and (max-width: 300px) {
+  
+    .titleHome {
+      width: 50%;
+      margin: 10px 0;
+    } 
+}
 .btnSkills {
     background-color: #18181fbf;
     color: rgb(2, 89, 189);
