@@ -40,6 +40,7 @@ export const MyProjects = () => {
               src={project.linkImg}
               alt="ImgProject"
             />
+            <hr />
             <div className="placeInfoProject">
                 <h5>{project.nome}</h5>
                 <p>Tecnologias: {project.tecnologias}</p>
