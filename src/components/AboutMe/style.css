@@ -75,6 +75,9 @@
     .imgFace {
         width: 300px;
     }
+    .allAbout {
+      height: 90%;
+    }
   
     .textAbout {
       width: 50%;
@@ -85,6 +88,9 @@
     .imgAbout {
       width:70%;
       margin: 10px 0px 0px 30px;
+    }
+    .textAbout{
+      font-size: 15px;
     }
     .imgFace {
         width: 200px;
